@@ -30,6 +30,8 @@ X = [[1, 2],
      [5, 6]
 ]
 
+print("yap yap yap")
+
 dense1 = Layer_Dense(2, 3)
 activation1 = Activation_ReLU()
 
